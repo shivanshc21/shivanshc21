@@ -28,8 +28,8 @@ Building scalable backend systems, AI-powered applications, and distributed arch
 
 ## 🏆 Achievements
 
-- 🥇 **LeetCode Knight** (Max Rating **1987**)
-- 🚀 **Codeforces Pupil** (Max Rating **1345**)
+- 🥇 **LeetCode Knight** (Max Rating **2083**)
+- 🚀 **Codeforces Pupil** (Max Rating **1523**)
 - ⭐ **CodeChef 3★** (Max Rating **1602**)
 - 🔥 **1500+ Problems Solved across all platforms**
 - 📈 **Top 2% Globally** — Rank **585 / 35,747** in **LeetCode Biweekly Contest 184**
