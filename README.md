@@ -64,6 +64,7 @@ Building scalable backend systems, AI-powered applications, and distributed arch
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
 
@@ -85,6 +86,7 @@ Building scalable backend systems, AI-powered applications, and distributed arch
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![FireBase](https://img.shields.io/badge/FireBase-DC482B?style=for-the-badge&logo=firebase)
 
 ### Tools & Cloud
 
